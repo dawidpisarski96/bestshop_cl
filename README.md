@@ -1,8 +1,7 @@
-# BestShop
 
 Simple fully responsive one page website
 
-## Technologies
+# Technologies
 Project is created with:
 * HTML
 * SCSS
